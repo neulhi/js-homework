@@ -114,7 +114,7 @@ pwInput.addEventListener('input', loginInput);
 바닐라 프로젝트가 12월 9일부터 시작이던데 같은 팀이 되는 사람들에게 민폐가 되지 않고 스스로도 무기력함을 느끼고 싶지 않고 잘 하고 싶기에 이걸 작은 목표로 설정하여 파이팅🔥 해보겠습니다.
 
 
-### 과제 2 GitHub URL
+### 과제 2 배포 GitHub URL
 - [naver_login](https://neulhi.github.io/js-homework/naver_login/index.html "naver_login")
 
 
