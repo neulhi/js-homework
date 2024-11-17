@@ -115,7 +115,7 @@ pwInput.addEventListener('input', loginInput);
 
 
 ### 과제 2 GitHub URL
-- [naver_login](https://github.com/neulhi/js-homework/naver_login "naver_login")
+- [naver_login](https://neulhi.github.io/js-homework/naver_login/index.html "naver_login")
 
 
 
