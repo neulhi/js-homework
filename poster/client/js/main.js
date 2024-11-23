@@ -28,7 +28,7 @@ function setBgColor(index) {
 
 // 메인 이미지 변경 함수
 function setImage(index) {
-  visualImage.src = `./assets/${data[index].name}.jpeg`;
+  visualImage.src = `./assets/${data[index].name.toLowerCase()}.jpeg`;
   visualImage.alt = data[index].alt;
 }
 
